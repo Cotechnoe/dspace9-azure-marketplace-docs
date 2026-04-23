@@ -1,5 +1,7 @@
 # DSpace 9 — Azure Marketplace Documentation
 
+> **⚠️ IMPORTANT:** This offer is currently undergoing the Azure Marketplace certification process and will be available soon. This documentation is provided in advance to help you prepare your deployment.
+
 Post-deployment guide for the **DSpace 9 — Institutional Repository** offer on Azure Marketplace, published by Cotechnoe.
 
 > **Official DSpace documentation:** [wiki.lyrasis.org/display/DSDOC9x](https://wiki.lyrasis.org/display/DSDOC9x)
